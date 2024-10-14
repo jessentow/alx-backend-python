@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 '''
-    The basics of async.
+    Basics of async synthax.
 '''
 
 import asyncio
